@@ -31,7 +31,7 @@ Feel free to add your own page(s) by sending a PR.
 
 <table>
 <tr>
-<td>Academics</td>
+<td>Academics</td>    
 <td>
 <a href="https://martinbulla.github.io" target="_blank">★</a>
 <a href="https://maruan.alshedivat.com" target="_blank">★</a>
