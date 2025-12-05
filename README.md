@@ -1,3 +1,3 @@
-## [zezechae.github.io](zezechae.github.io)
+## [zezechae.github.io](http://zezechae.github.io)
 
 ### Hello I'm Jewoo
